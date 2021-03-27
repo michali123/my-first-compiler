@@ -4,7 +4,7 @@
  CCNY Spring 2021
  Developed by: Michal Moryosef
 
-# Commnets
+## Commnets
 a) The code is ported to 68000 assembly, I have used the following links as a guide and a reference:
  1. https://simpledevcode.wordpress.com/2016/12/15/mini-guide-to-68000-assembly-programming/
  2. https://www.nxp.com/docs/en/reference-manual/M68000PRM.pdf
