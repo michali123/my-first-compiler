@@ -12,3 +12,7 @@ a) The code is ported to 68000 assembly, I have used the following links as a gu
 b) The compiler development is based on Professor Michael Vulis' class material and his notes, as well as on the great book for beginners I found online:
 "Let's Build a Compiler, by Jack Crenshaw, Ph.D."
 
+### Links for reference
+https://compilers.iecc.com/crenshaw/
+https://github.com/lotabout/Let-s-build-a-compiler - compiler done in C and x86 assembler
+
