@@ -1,4 +1,4 @@
-# my-first-compiler
+# My-First-Compiler
  my first compiler, written in Pascal
  Professor: Michael Vulis 
  CCNY Spring 2021
