@@ -1,0 +1,24 @@
+Chapter 2 Summary:
+
+https://compilers.iecc.com/crenshaw/tutor2.txt
+
+
+At this point we're just about finished with the structure of our
+expression parser.   This version of the program should correctly
+parse and compile just about any expression you care to  throw at
+it.
+
+1. open termial
+2. go to path where Cradle.pas is located
+3. compile file with Free Pascal Compiler: fpc Cradle.pas
+4. run object file created: Cardle
+5. now we can parse and compile any math expression! :
+
+1+2 
+1+2-9
+8*45
+2+31-2-0
+-1
+(4+5)/9
+
+etc.
