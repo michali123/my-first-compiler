@@ -1,1 +1,10 @@
+simple parser that  could handle arbitrarily complex expressions,
+with two restrictions:
 
+  o No variables were allowed, only numeric factors
+
+  o The numeric factors were limited to single digits
+
+In this installment, we'll get  rid of those restrictions.  We'll
+also extend what  we've  done  to  include  assignment statements
+function  calls  and. 
