@@ -3,3 +3,28 @@ concentrating on the parsing of math  expressions  and assignment
 statements.  In  this  installment,  we'll  take off on a new and
 exciting  tangent:  that   of  parsing  and  translating  control
 constructs such as IF statements.
+
+
+Give it a try now.  Try something like
+
+   aiblcede
+
+Did it work?  Now, just  to  be  sure we haven't broken the ELSE-
+less case, try
+
+   aibece
+
+Now try some nested IF's.  Try anything you like,  including some
+badly formed statements.   Just  remember that 'e' is not a legal
+"other" statement.
+
+
+Give it a try.  Once again,  don't  forget  to  add  the  call in
+Block.    Since  we don't have any input for the dummy version of
+Expression, a typical input line would look something like
+
+     afi=bece
+
+Well, it DOES generate a lot of code, doesn't it?    But at least
+it's the RIGHT code.
+
