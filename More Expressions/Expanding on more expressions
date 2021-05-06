@@ -20,3 +20,6 @@ the structure of the parser changes a bit as we change  what sort
 of action has to be taken.  The information we pick up there will
 serve  us in good stead later on, even if you have no interest in
 interpreters.  See you next time.
+
+
+feel free to try assignments like: x= x+3 -2 -(5-4) etc.
