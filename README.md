@@ -15,3 +15,5 @@ b) The compiler development is based on Professor Michael Vulis' class material 
 ### Links for reference
 https://compilers.iecc.com/crenshaw/ <br /> https://github.com/lotabout/Let-s-build-a-compiler - compiler done in C and x86 assembler
 
+the book in markdown
+https://github.com/ranon-rat/letsBuildACompiler
