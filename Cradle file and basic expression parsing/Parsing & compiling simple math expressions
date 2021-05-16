@@ -2,16 +2,9 @@ The Cradle: the idea behind the cradle is that it consists of some I/O routines,
 
 Chapter 2 Summary: Building a simple parser
   o No variables were allowed, only numeric factors
-  o The numeric factors were limited to single digits
+  o No limitations on number of digits!!
   
-At this point we're just about finished with the structure of our expression parser.  
-This version of the program should correctly parse and compile just about any expression you care to throw at it.
-
-1. open termial
-2. go to path where Cradle.pas is located
-3. compile file with Free Pascal Compiler: fpc Cradle.pas
-4. run exe. file created: Cardle
-5. now we can parse and compile any math expression! :
+Feel free to try:
 
 1+2 
 1+2-9
@@ -20,7 +13,10 @@ This version of the program should correctly parse and compile just about any ex
 -1
 (4+5)/9
 
+!!Another advenced feature!! 
+
+our compiler knows how to recognize '( )' in math expression. 
+feel free to try assignments like: x= x+3 -2 -(5-4) etc.
+
 etc.
 
-
-DEL ME: https://compilers.iecc.com/crenshaw/tutor2.txt
