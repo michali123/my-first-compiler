@@ -1,8 +1,11 @@
-Updating our parser, so far we have the following limitations:
+Our compiler knows assigments!!
 
-  o No variables were allowed, only numeric factors
+try:
 
-  o The numeric factors were limited to single digits
+A = 5
+ac=76
+K = 12
+
+etc...
 
 
-feel free to try assignments like: x= x+3 -2 -(5-4) etc.
