@@ -4,6 +4,16 @@
  CCNY Spring 2021<br />
  Developed by: Michal Moryosef<br />
 
+
+How to test this compiler? 
+
+1. Open termial
+2. Go to path where Cradle.pas is located
+3. Compile file with Free Pascal Compiler: fpc Cradle.pas
+4. Run exe. file created: Cardle
+5. Now we can parse and compile the features available at each step of out compiler development! Please follow along!
+
+
 ## Commnets
 a) The code is ported to 68000 assembly, I have used the following links as a guide and as a reference:
  1. https://simpledevcode.wordpress.com/2016/12/15/mini-guide-to-68000-assembly-programming/
