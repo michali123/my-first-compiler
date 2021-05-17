@@ -9,8 +9,8 @@ How to test this compiler?
 
 1. Open termial
 2. Go to path where Cradle.pas is located
-3. Compile file with Free Pascal Compiler: fpc Cradle.pas
-4. Run exe. file created: Cardle
+3. Compile file with Free Pascal Compiler. On command line type: fpc Cradle.pas
+4. On command line type: Cardle (to run object file)
 5. Now we can parse and compile the features available at each step of out compiler development! Please follow along!
 
 
