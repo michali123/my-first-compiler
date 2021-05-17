@@ -1,5 +1,5 @@
 # My-First-Compiler
- my first compiler, written in Pascal<br />
+ My first compiler, written in Pascal<br />
  Professor: Michael Vulis <br />
  CCNY Spring 2021<br />
  Developed by: Michal Moryosef<br />
@@ -21,9 +21,3 @@ a) The code is ported to 68000 assembly, I have used the following links as a gu
 
 b) The compiler development is based on Professor Michael Vulis' class material and his notes, as well as on the great book for beginners I found online:
 "Let's Build a Compiler, by Jack Crenshaw, Ph.D."
-
-### Links for reference
-https://compilers.iecc.com/crenshaw/ <br /> https://github.com/lotabout/Let-s-build-a-compiler - compiler done in C and x86 assembler
-
-the book in markdown
-https://github.com/ranon-rat/letsBuildACompiler
